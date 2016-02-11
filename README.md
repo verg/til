@@ -16,3 +16,8 @@ variety of languages and technologies.
 ### C
 
 - [gdb as REPL](c/gdb-as-repl.md)
+
+## About
+I shamelessly stole this idea from
+[jbranchaud/til](https://github.com/jbranchaud/til).
+
