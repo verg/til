@@ -10,10 +10,14 @@ int main()
 ```
 
 Compile with -g flag so gdb has debugging information:
-`gcc -g gdbrepl.c -o gdbrepl`
+```
+gcc -g gdbrepl.c -o gdbrepl
+```
 
 Run gdb:
-`gdb dgbrepl`
+```
+gdb dgbrepl
+```
 
 You can now evaluate expressions with gdb's print command:
 ```c
