@@ -10,6 +10,7 @@ variety of languages and technologies.
 ### Categories
 
 * [C](#c)
+* [Scala](#scala)
 
 ---
 
