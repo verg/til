@@ -1,3 +1,5 @@
+# gdb as REPL
+
 The feeback loop of compiling-then-runing C programs can make learning C seem more painful than higher-level languages with powerful REPLs. Here's a way to use gdb as a psudo C repl.
 
 Start by writing a tiny program, gdbrepl.c:
