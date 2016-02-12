@@ -17,6 +17,10 @@ variety of languages and technologies.
 
 - [gdb as REPL](c/gdb-as-repl.md)
 
+### Scala
+
+- [Pattern Matching on Multiple Lists](scala/pattern-matching-on-multiple-lists.md)
+
 ## About
 I shamelessly stole this idea from
 [jbranchaud/til](https://github.com/jbranchaud/til).
