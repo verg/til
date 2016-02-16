@@ -21,6 +21,8 @@ variety of languages and technologies.
 ### Scala
 
 - [Pattern Matching on Multiple Lists](scala/pattern-matching-on-multiple-lists.md)
+- [Difference Between Fold Left and Fold Right](scala/difference-between-fold-left-fold-right.md)
+
 
 ## About
 I shamelessly stole this idea from
